@@ -2,8 +2,8 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate for my life
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: Tell ID @Mr_Amirali86
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Iran
 
 <!---
